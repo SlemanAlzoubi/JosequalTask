@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Josequal Task</string>
+    <string name="item_info_dialog_title">title</string>
+    <string name="item_info_dialog_close_button">ok</string>
+</resources>
